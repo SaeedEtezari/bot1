@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+google-genai
+pymupdf
+pillow
+pytesseract
+python-docx
